@@ -1,0 +1,7 @@
+username = "Admin"
+password = "admin123"
+# password = "admin"
+url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+# url1= "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList"
+employee_name = "Komal Nisha"
+employee_name1 = "KOMAL NISHA"
